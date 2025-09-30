@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Projects\\SmartStock\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\smartstock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\smartstock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\controllers\\campuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\controllers\\campuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\profile\\dto\u0027s\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\profile\\command\\getmyprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\profile\\command\\getmyprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -146,20 +146,94 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileUpdateResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T07:34:47.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T07:34:21.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Campuses.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\Campuses.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Controllers\\Campuses.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\Campuses.cs",
+              "RelativeToolTip": "SmartStock\\Controllers\\Campuses.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:19:02.94Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CampusDto.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:01:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartStock.csproj",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\SmartStock.csproj",
+              "RelativeDocumentMoniker": "SmartStock\\SmartStock.csproj",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\SmartStock.csproj",
+              "RelativeToolTip": "SmartStock\\SmartStock.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T14:41:01.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Account.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Domain\\Account.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Account.cs",
+              "RelativeToolTip": "SmartStock\\Domain\\Account.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:57:53.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "SmartStock\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\AuthController.cs",
               "RelativeToolTip": "SmartStock\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwFAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T16:17:30.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetMyProfileHandler.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Handler\\GetMyProfileHandler.cs",
               "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\Handler\\GetMyProfileHandler.cs",
@@ -172,70 +246,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProfileUpdateResponse.cs",
-              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
-              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
-              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
-              "RelativeToolTip": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T07:34:47.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateProfileDto.cs",
-              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
-              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
-              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
-              "RelativeToolTip": "SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T07:34:21.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Campuses.cs",
-              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\Campuses.cs",
-              "RelativeDocumentMoniker": "SmartStock\\Controllers\\Campuses.cs",
-              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\Campuses.cs",
-              "RelativeToolTip": "SmartStock\\Controllers\\Campuses.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T16:19:02.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CampusDto.cs",
-              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
-              "RelativeDocumentMoniker": "SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
-              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
-              "RelativeToolTip": "SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T16:01:57.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SmartStock.csproj",
-              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\SmartStock.csproj",
-              "RelativeDocumentMoniker": "SmartStock\\SmartStock.csproj",
-              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\SmartStock.csproj*",
-              "RelativeToolTip": "SmartStock\\SmartStock.csproj*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-26T14:41:01.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "UpdateMyProfileHandler.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Handler\\UpdateMyProfileHandler.cs",
               "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\Handler\\UpdateMyProfileHandler.cs",
@@ -246,12 +256,8 @@
               "WhenOpened": "2025-09-27T16:47:05.554Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProfileDto.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileDto.cs",
               "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileDto.cs",
@@ -263,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SmartStock\\Infrastructure\\Data\\AppDbContext.cs",
@@ -271,12 +277,11 @@
               "RelativeToolTip": "SmartStock\\Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:55:11.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T15:55:11.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Program.cs",
               "RelativeDocumentMoniker": "SmartStock\\Program.cs",
@@ -288,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "VerifyAccountCommand.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Command\\VerifyAccountCommand.cs",
               "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Command\\VerifyAccountCommand.cs",
@@ -300,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LoginCommand.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Command\\LoginCommand.cs",
               "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Command\\LoginCommand.cs",
@@ -312,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AccountDto.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Dto\u0027s\\AccountDto.cs",
               "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Dto\u0027s\\AccountDto.cs",
@@ -324,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LoginCommandHandler.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Handler\\LoginCommandHandler.cs",
               "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Handler\\LoginCommandHandler.cs",
@@ -336,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GetMyProfileQuery.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Command\\GetMyProfileQuery.cs",
               "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\Command\\GetMyProfileQuery.cs",
@@ -348,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Campus.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Campus.cs",
               "RelativeDocumentMoniker": "SmartStock\\Domain\\Campus.cs",
@@ -360,19 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Account.cs",
-              "RelativeDocumentMoniker": "SmartStock\\Domain\\Account.cs",
-              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Account.cs",
-              "RelativeToolTip": "SmartStock\\Domain\\Account.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAwDIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:57:53.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ProfileInfo.cs",
               "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\ProfileInfo.cs",
               "RelativeDocumentMoniker": "SmartStock\\Domain\\ProfileInfo.cs",
@@ -549,6 +542,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T15:55:33.45Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
