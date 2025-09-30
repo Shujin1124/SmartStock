@@ -1,0 +1,43 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# ASP.NET publish folder
+out/
+publish/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.lock.json
+
+# Backup and crash files
+*.bak
+*.swp
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+.DS_Store
