@@ -1,0 +1,558 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\SmartStock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\smartstock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\smartstock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\campuses\\dto\u0027s\\campusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\campuses\\dto\u0027s\\campusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\controllers\\campuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\controllers\\campuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\profile\\dto\u0027s\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\profile\\dto\u0027s\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\profile\\handler\\updatemyprofilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\profile\\handler\\updatemyprofilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\profile\\dto\u0027s\\profileupdateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\profile\\dto\u0027s\\profileupdateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\profile\\dto\u0027s\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\profile\\dto\u0027s\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\profile\\handler\\getmyprofilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\profile\\handler\\getmyprofilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\accounts\\dto\u0027s\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\accounts\\dto\u0027s\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\accounts\\command\\verifyaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\accounts\\command\\verifyaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\accounts\\command\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\accounts\\command\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\accounts\\handler\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\accounts\\handler\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\domain\\profileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\domain\\profileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\domain\\campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\domain\\campus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\profile\\command\\getmyprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\profile\\command\\getmyprofilequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\migrations\\20250927135843_initialscreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\migrations\\20250927135843_initialscreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\migrations\\20250927141226_renameprofileimageurltoprofilepic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\migrations\\20250927141226_renameprofileimageurltoprofilepic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\accounts\\handler\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\accounts\\handler\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\accounts\\command\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\accounts\\command\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\campuses\\handler\\getcampuseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\campuses\\handler\\getcampuseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\campuses\\queries\\getcampusesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\campuses\\queries\\getcampusesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\application\\accounts\\handler\\verifyaccountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\application\\accounts\\handler\\verifyaccountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\infrastructure\\config\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\infrastructure\\config\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|c:\\projects\\smartstock\\smartstock\\infrastructure\\security\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F20540-A301-4917-8A8D-105D7B72B4D0}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\infrastructure\\security\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartStock\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:17:30.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetMyProfileHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Handler\\GetMyProfileHandler.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\Handler\\GetMyProfileHandler.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Handler\\GetMyProfileHandler.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Profile\\Handler\\GetMyProfileHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:25:43.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileUpdateResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileUpdateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T07:34:47.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Profile\\DTO\u0027s\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T07:34:21.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Campuses.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\Campuses.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Controllers\\Campuses.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Controllers\\Campuses.cs",
+              "RelativeToolTip": "SmartStock\\Controllers\\Campuses.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:19:02.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CampusDto.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Campuses\\Dto\u0027s\\CampusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:01:57.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartStock.csproj",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\SmartStock.csproj",
+              "RelativeDocumentMoniker": "SmartStock\\SmartStock.csproj",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\SmartStock.csproj",
+              "RelativeToolTip": "SmartStock\\SmartStock.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T14:41:01.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateMyProfileHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Handler\\UpdateMyProfileHandler.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\Handler\\UpdateMyProfileHandler.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Handler\\UpdateMyProfileHandler.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Profile\\Handler\\UpdateMyProfileHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:47:05.554Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileDto.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileDto.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Profile\\DTO\u0027s\\ProfileDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:23:57.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SmartStock\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:55:11.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Program.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Program.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Program.cs",
+              "RelativeToolTip": "SmartStock\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:39:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VerifyAccountCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Command\\VerifyAccountCommand.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Command\\VerifyAccountCommand.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Command\\VerifyAccountCommand.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Accounts\\Command\\VerifyAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:03:40.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Command\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Command\\LoginCommand.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Command\\LoginCommand.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Accounts\\Command\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:00:32.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Dto\u0027s\\AccountDto.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Dto\u0027s\\AccountDto.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Dto\u0027s\\AccountDto.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Accounts\\Dto\u0027s\\AccountDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:01:10.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Handler\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Handler\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Handler\\LoginCommandHandler.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Accounts\\Handler\\LoginCommandHandler.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:05:15.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetMyProfileQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Command\\GetMyProfileQuery.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Profile\\Command\\GetMyProfileQuery.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Profile\\Command\\GetMyProfileQuery.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Profile\\Command\\GetMyProfileQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:25:22.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Campus.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Campus.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Domain\\Campus.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Campus.cs",
+              "RelativeToolTip": "SmartStock\\Domain\\Campus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:58:45.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Account.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Domain\\Account.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\Account.cs",
+              "RelativeToolTip": "SmartStock\\Domain\\Account.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:57:53.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProfileInfo.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\ProfileInfo.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Domain\\ProfileInfo.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Domain\\ProfileInfo.cs",
+              "RelativeToolTip": "SmartStock\\Domain\\ProfileInfo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA+wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:19:40.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartStock\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartStock\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T04:22:17.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250927135843_InitialsCreateTable.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Migrations\\20250927135843_InitialsCreateTable.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Migrations\\20250927135843_InitialsCreateTable.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Migrations\\20250927135843_InitialsCreateTable.cs",
+              "RelativeToolTip": "SmartStock\\Migrations\\20250927135843_InitialsCreateTable.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T13:59:37.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SmartStock\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T13:59:37.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250927141226_RenameProfileImageUrlToProfilePic.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Migrations\\20250927141226_RenameProfileImageUrlToProfilePic.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Migrations\\20250927141226_RenameProfileImageUrlToProfilePic.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Migrations\\20250927141226_RenameProfileImageUrlToProfilePic.cs",
+              "RelativeToolTip": "SmartStock\\Migrations\\20250927141226_RenameProfileImageUrlToProfilePic.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:12:54.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "SmartStock\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:09:19.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Handler\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Handler\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Handler\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Accounts\\Handler\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAEIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:11:27.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Command\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Command\\RegisterCommand.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Command\\RegisterCommand.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Accounts\\Command\\RegisterCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:03:19.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VerifyAccountCommandHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Handler\\VerifyAccountCommandHandler.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Accounts\\Handler\\VerifyAccountCommandHandler.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Accounts\\Handler\\VerifyAccountCommandHandler.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Accounts\\Handler\\VerifyAccountCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:15:36.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetCampusesQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Queries\\GetCampusesQuery.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Campuses\\Queries\\GetCampusesQuery.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Queries\\GetCampusesQuery.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Campuses\\Queries\\GetCampusesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:16:28.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetCampusesHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Handler\\GetCampusesHandler.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Application\\Campuses\\Handler\\GetCampusesHandler.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Application\\Campuses\\Handler\\GetCampusesHandler.cs",
+              "RelativeToolTip": "SmartStock\\Application\\Campuses\\Handler\\GetCampusesHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:15:07.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartStock\\appsettings.json",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\appsettings.json",
+              "RelativeToolTip": "SmartStock\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T16:20:14.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "SmartStock\\Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:12:36.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Config\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Infrastructure\\Config\\EmailSettings.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Config\\EmailSettings.cs",
+              "RelativeToolTip": "SmartStock\\Infrastructure\\Config\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:53:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Security\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "SmartStock\\Infrastructure\\Security\\PasswordHelper.cs",
+              "ToolTip": "C:\\Projects\\SmartStock\\SmartStock\\Infrastructure\\Security\\PasswordHelper.cs",
+              "RelativeToolTip": "SmartStock\\Infrastructure\\Security\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:55:33.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
